@@ -1,0 +1,89 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+nav button{
+    width: 120px;
+    height: 50px;
+    background: #FF7A50;
+    color: white;
+    border: none;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+    border-radius: 5px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left{
+    width: 55%;
+    font-size: 170%;
+}
+
+.ikki{
+    width: 120px;
+    height: 50px;
+    background: #FF7A50;
+    color: white;
+    border: none;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+    border-radius: 5px;
+}
+
+.uch{
+    width: 120px;
+    height: 50px;
+    background: #FF7A50;
+    color: white;
+    border: none;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+    border-radius: 5px;
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.right{
+    width: 55%;
+    font-size: 170%;
+}
+
+.card div{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    width: 361px;
+    height: 417px;
+}
+
+.card button{
+    width: 79px;
+    height: 33px;
+    background: #FF7A50;
+    border-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border: none;
+}
